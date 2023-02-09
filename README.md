@@ -62,7 +62,7 @@ The function returns three outputs:
     Lambda: A 2D Numpy array representing the eigenvalues of the system
     b: A 1D Numpy array representing the coefficients of the DMD modes
 
-
+*** Important: Make sure that your data is 2-D
 ## Conclusion
 
 This repository provides a simple and easy-to-use implementation of the Dynamic Mode Decomposition (DMD) algorithm in Python. It is intended for researchers, engineers, and students who are interested in exploring the capabilities of this powerful technique for data analysis and system identification.
