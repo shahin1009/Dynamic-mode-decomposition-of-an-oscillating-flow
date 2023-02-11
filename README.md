@@ -66,3 +66,4 @@ The function returns three outputs:
 ## Conclusion
 
 This repository provides a simple and easy-to-use implementation of the Dynamic Mode Decomposition (DMD) algorithm in Python. It is intended for researchers, engineers, and students who are interested in exploring the capabilities of this powerful technique for data analysis and system identification.
+Dynamic mode decomposition (DMD) is a powerful technique for analyzing and modeling the dynamics of complex systems. <b>However, DMD is not well-suited for handling noisy data. If the data is too noisy, the DMD algorithm will struggle to identify the underlying dynamics and may produce misleading results. When the data is too noisy, the noise can obscure the true underlying patterns and trends in the data, making it difficult for DMD to identify the dominant modes and the associated eigenvalues and eigenvectors. This can result in unstable or incorrect models and predictions.</b>
